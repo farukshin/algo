@@ -18,5 +18,5 @@ func binarySearch(arr []int, s int) int {
 
 func main() {
 	var arr = []int{1, 2, 5, 7, 8, 9, 16}
-	println(binarySearch(arr, 5))
+	println(binarySearch(arr, 5)) // 2
 }
