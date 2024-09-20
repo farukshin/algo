@@ -26,4 +26,4 @@ func main() {
 	println(binarySearch(arr, 5))
 }
 
-``
+```
