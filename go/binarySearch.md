@@ -2,7 +2,7 @@
 
 Для поиска в отсортировоанном массве
 
-```
+``` golang
 package main
 
 func binarySearch(arr []int, s int) int {
